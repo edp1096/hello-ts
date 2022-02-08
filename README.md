@@ -12,8 +12,8 @@ npm install typescript
 npm install ts-node @types/node
 ```
 
-* `npm install -g ...`: 터미널 실행, 빌드
-* `npm install ...`: 디버그
+* `npm install -g ...`: 터미널 실행
+* `npm install ...`: 디버그, 빌드
 
 * 용도
     * `typescript`: typescript
